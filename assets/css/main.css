@@ -871,7 +871,7 @@ section,
 # Interests Section
 --------------------------------------------------------------*/
 .interests .features-item {
-  background-color: var(--surface-color);
+  background-color: #4C566B;
   display: flex;
   align-items: center;
   padding: 20px;
